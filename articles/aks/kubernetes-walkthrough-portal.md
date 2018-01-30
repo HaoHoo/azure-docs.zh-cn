@@ -108,7 +108,7 @@ aks-agentpool-14693408-2   Ready     agent     7m        v1.8.1
 
 ## <a name="run-the-application"></a>运行应用程序
 
-Kubernetes 清单文件用于定义群集的所需状态，例如，应该运行什么容器图像。 就此示例来说，清单用于创建运行 Azure Vote 应用程序所需的所有对象。
+Kubernetes 清单文件用于定义群集的所需状态，例如，应该运行什么容器镜像。 就此示例来说，清单用于创建运行 Azure Vote 应用程序所需的所有对象。
 
 创建名为 `azure-vote.yaml` 的文件，并将以下 YAML 代码复制到其中。 如果在 Azure Cloud Shell 中操作，则可使用 vi 或 Nano 来创建此文件，就像在虚拟或物理系统中操作一样。
 
